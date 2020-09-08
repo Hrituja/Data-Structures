@@ -42,7 +42,7 @@ void LowerTri::Display(){
             if(i>=j)
             cout<<A[(i*(i-1))/2+j-1]<<" ";
             else 
-            cout<<"0"\t;
+            cout<<"0";
         }
         cout<<endl;
     }
